@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+<div class="post">
   <div class="container main">
     <div class="row">
       <header>
@@ -15,8 +16,16 @@ layout: default
       <div class="col-lg-2"></div>
       <div class="col-lg-8 col-offset-1" style="width:70%">
         <article lang="en">
-          {% if page.abstract %} <b>Abstract.</b> {{ page.abstract }}<br><br>{% endif %}
           {{ content }}
+          {% assign categories = site.categories | sort %}
+          {% for category in categories %}
+          <h3>On {{ category | first }}</h3>
+          <p>{% for posts in category %} {% for post in posts %}
+                <p><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></p>   
+                <p> {{ post.excerpt }} </p>
+          {% endfor %} {% endfor %} 
+          </p>
+          {% endfor %}
         </article>
 	     </div>
      </div>
