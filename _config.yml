@@ -1,47 +1,53 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+# Built with Jekyll 3.2.0
 
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
-title: Down the rabbit holes!
-email: kalantresandesh@gmail.com
-author: Sandesh Kalantre
-biography: Hello! I am a graduate student in Physics. 
-description: This is a personal blog. Updates about my life including random musings about physics, mathematics and computer science are posted here. There might be the ocassional sprinkling of poetry and philosophy.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://sandeshkalantre.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
-#url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: sandeshkalantre
-github_username:  sandeshkalantre
-google-analytics: 
+# Setup
+title:               Down the Rabbit Holes!
+tagline:             'writings mostly about my scientific work and some other things'
+description:          
+    This is the personal website of Sandesh Kalantre. I am a graduate student at the Joint Quantum Institute (JQI), University of Maryland - College Park. Physics, especially all things quantum, is my forte. I also like classical music and travelling around.
+url:                 'https://sandeshkalantre.github.io'
+baseurl:             ''
 
-# Build settings
+# About/contact
+author:
+  name:              Sandesh Kalantre
+  url:               https://twitter.com/sandeshkalantre
+  email:             kalantresandesh@gmail.com
+
+# Permalinks
+
+# Color scheme. Options: red, orange, magenta, cyan, blue, brown
+color-scheme: 
+
+permalink: pretty
+permalink: /:title/
+
+# Set encoding to UTF-8
+encoding: utf-8
+
+# Collections for texts
+collections:
+  texts:
+    output: true
+
+# Markdown specs
 markdown: kramdown
-plugins:
-  - jekyll-feed
 
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+kramdown:
+  auto_ids:       true
+  footnote_nr:    1
+  entity_output:  as_char
+  footnote_backlink: "&#x21a9;&#xfe0e;"
+  toc_levels:     1..6
+  smart_quotes:   lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
 
-highlighter: rouge
+# Exclusions from the final site
+exclude:
+  - optional
+  - vendor
 
-colophon: "Adapted from <a href='http://jekyllthemes.org/themes/papyrus-theme/'>Papyrus</a> theme by Hugo Sereno Ferreira. Site created with <a href='http://jekyllrb.com/'>Jekyll</a>."
+# Theme
+theme: "ed."
+
+
