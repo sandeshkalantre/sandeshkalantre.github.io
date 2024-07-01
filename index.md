@@ -7,7 +7,7 @@ title: Home
 
 Hello friends! It seems you have stumbled on my homepage.
 
-I a Knight-Hennessy fellow at Stanford University. I am part of the Goldhaber-Gordon Group at the Geballe Lab for Advanced Materials.
+I am a Knight-Hennessy fellow at Stanford University. I am a part of the Goldhaber-Gordon Group at the Geballe Lab for Advanced Materials.
 
 I am interested in all things quantum, especially when it is starkly manifested in the properties of materials. Besides, I like to program (computers!) and build things.
 
