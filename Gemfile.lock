@@ -95,7 +95,7 @@ DEPENDENCIES
   bundler (~> 1.16)
   ed.!
   html-proofer
-  rake (~> 10.4)
+  rake (~> 12.3)
 
 BUNDLED WITH
    1.17.1
