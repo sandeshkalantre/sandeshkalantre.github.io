@@ -4,8 +4,8 @@
 title:               Sandy's Personal Website
 tagline:             'personal musings'
 description:         'a blog about my adventures in life'
-url:                 'https//sandeshkalantre.github.io'
-baseurl:             '/ed'
+url:                 'https://sandeshkalantre.github.io'
+baseurl:             '/'
 
 # About/contact
 author:
