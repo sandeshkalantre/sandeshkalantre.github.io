@@ -2,5 +2,5 @@
 layout: blog 
 title: Blog
 ---
-This is a list of personal and scientific writings.
+This is a list of my personal and scientific writings.
 
