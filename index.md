@@ -7,11 +7,11 @@ title: Home
 
 Hello friends! It seems you have stumbled on my homepage.
 
-I a Knight-Hennessy fellow at Stanford University. I am part of the Goldhaber-Gordon Group at the Geballe Lab for Advanced Materials.
+I'm currently a Knight-Hennessy fellow at Stanford University. I am part of the Goldhaber-Gordon Group at the Geballe Lab for Advanced Materials.
 
-I am interested in all things quantum, especially when it is starkly manifested in the properties of materials. Besides, I like to program (computers!) and build things.
+I am interested in all things quantum, especially when manifested in the properties of materials. I enjoy writing short snippets of code and building things.
 
-If I am not working, you can find me reading history or poetry, playing Age of Empires, watching sci-fi shows and movies or begin lost in classical music.
+If I am not working, you can find me reading history, politics or poetry, playing Age of Empires, watching sci-fi shows and movies or being lost in classical music.
 
 This is a typical property of my ground state! 
 ![Nerd Snipping]({{ site.url }}/assets/images/nerd_sniping.png "Nerd Snipping")
