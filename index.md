@@ -3,7 +3,7 @@ layout: page
 title: Home
 ---
 
-<img src= "{{ site.url }}/assets/images/sandesh.png" alt="Sandy" height="280" width="250" style="border-radius: 100px; margin-left: auto; margin-right: auto; display: block"> 
+<img src= "{{ site.url }}/assets/images/sandesh.png" alt="Sandy" height="250" width="250" style="border-radius: 20px; margin-left: auto; margin-right: auto; display: block"> 
 
 Hello friends! 
 
