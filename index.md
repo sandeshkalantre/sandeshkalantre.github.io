@@ -5,7 +5,7 @@ title: Home
 
 <img src= "{{ site.url }}/assets/images/sandesh.png" alt="Sandy" height="280" width="250" style="border-radius: 100px; margin-left: auto; margin-right: auto; display: block"> 
 
-Hello friends! It seems you have stumbled on my homepage.
+Hello friends! 
 
 I'm currently a Knight-Hennessy fellow at Stanford University. I am part of the Goldhaber-Gordon Group at the Geballe Lab for Advanced Materials.
 
