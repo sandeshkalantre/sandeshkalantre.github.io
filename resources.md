@@ -12,3 +12,8 @@ This is a list of interesting resources I have found online and offline.
 
 ## FreeCAD tutorial
 - [Link](https://www.youtube.com/playlist?list=PLEBQazB0HUyTQkRkbD02DZqnlV6oBMhHB) I found a great introduction to FreeCAD, a completely free CAD software that is good replacement for Solidworks or Fusion 360.
+
+## Funny
+Advice to Youth - an essay by Mark Twain [(link)](https://www.tnellen.com/westside/youth.html)
+
+*If a person offend you, and you are in doubt as to whether it was intentional or not, do not resort to extreme measures; simply watch your chance and hit him with a brick.*
