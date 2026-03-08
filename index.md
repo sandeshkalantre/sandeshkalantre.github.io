@@ -7,6 +7,10 @@ title: Home
 
 I'm currently a Knight-Hennessy fellow at Stanford University. I am part of the Goldhaber-Gordon Group at the Geballe Lab for Advanced Materials. While quantum mechanics can explain the behavior of single electrons in atoms and molecules, an unfathomable complexity of behaviors can arise in collections of electrons in solids. My work tries to probe and ask questions about complex phenomana which result from the correlated states of electrons in materials. I am generally excited about condensed matter physics, quantum science, quantum materials and device physics. I am also intrigued by advances in machine learning and artificial intelligence and I'm always on the lookout for adapting new tools and techology in understanding physical phenomena and enhancing experimental science.
 
+- [Full CV](/assets/CV.pdf) 
+- [Publications](https://scholar.google.com/citations?user=w1rMqyoAAAAJ&hl=en)
+
+
 # News
 - **March 2026**: I'll be at the APS March Meeting in Denver, CO.
 
