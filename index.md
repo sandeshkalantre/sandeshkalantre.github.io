@@ -9,7 +9,7 @@ I'm currently a Knight-Hennessy fellow at Stanford University. I am part of the 
 
 - [Full CV](/assets/CV.pdf) 
 - [Publications](https://scholar.google.com/citations?user=w1rMqyoAAAAJ&hl=en)
-
+- [Research](/research)
 
 # News
 - **March 2026**: I'll be at the APS March Meeting in Denver, CO.
