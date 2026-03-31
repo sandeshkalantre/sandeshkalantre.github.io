@@ -10,6 +10,7 @@ I'm currently a Knight-Hennessy fellow at Stanford University. I am part of the 
 - [Full CV](/assets/CV.pdf) 
 - [Publications](https://scholar.google.com/citations?user=w1rMqyoAAAAJ&hl=en)
 - [Research](/research)
+- [Blog](/blog_index)
 
 # News
 - **March 2026**: I'll be at the APS March Meeting in Denver, CO.
@@ -19,6 +20,8 @@ I'm currently a Knight-Hennessy fellow at Stanford University. I am part of the 
 [Abstract](https://summit.aps.org/smt/2026/events/MAR-P35/)
 
 Sandesh Kalantre (presenter), Chaitrali Duse, Ke Huang, Kenji Watanabe, Takashi Taniguchi, Charlotte Boettcher, David Goldhaber-Gordon, Aaron Sharpe
+
+![apspic](/assets/images/aps2026.png)
 
 
 - **April 2025**: I attended the Capri Spring School in Italy which covered Novel Aspects of Superconducting Devices. I learned a lot about superconducting circuits from many discussions with the participants. I met a few personal "heroes" whose papers have helped me understand superconductivity in depth. 
