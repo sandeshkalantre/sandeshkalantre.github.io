@@ -13,6 +13,10 @@ This is a list of interesting resources I have found online and offline.
 ## FreeCAD tutorial
 - [Link](https://www.youtube.com/playlist?list=PLEBQazB0HUyTQkRkbD02DZqnlV6oBMhHB) I found a great introduction to FreeCAD, a completely free CAD software that is good replacement for Solidworks or Fusion 360.
 
+## Guide on Latex tables
+- Here is a nice tutorial on using Latex to prepare highly quality readable tables [link](https://people.inf.ethz.ch/markusp/teaching/guides/guide-tables.pdf)
+
+
 ## Funny
 Advice to Youth - an essay by Mark Twain [(link)](https://www.tnellen.com/westside/youth.html)
 
