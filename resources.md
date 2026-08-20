@@ -21,3 +21,7 @@ This is a list of interesting resources I have found online and offline.
 Advice to Youth - an essay by Mark Twain [(link)](https://www.tnellen.com/westside/youth.html)
 
 *If a person offend you, and you are in doubt as to whether it was intentional or not, do not resort to extreme measures; simply watch your chance and hit him with a brick.*
+
+
+## Useful links on Gen AI tools
+- Model Context Protocol (MCP) is an open-source standard for connecting AI tools to external systems. This website [https://mcpmarket.com/](https://mcpmarket.com/) seems like a great place to get relevant skills.md files for specific tasks. 
