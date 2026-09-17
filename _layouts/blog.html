@@ -15,14 +15,11 @@ layout: default
       <div class="col-lg-8 col-offset-1" style="width:70%">
         <article lang="en">
           {{ content }}
-          {% assign categories = site.categories | sort %}
-          {% for category in categories %}
-          <h3>On {{ category | first }}</h3>
-          <p>{% for posts in category %} {% for post in posts %}
-                <p><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></p>   
-                <p> {{ post.excerpt }} </p>
-          {% endfor %} {% endfor %} 
-          </p>
+          {% for post in site.posts %}
+                {% assign excerpt_text = post.excerpt | strip_html | strip_newlines %}
+                {% assign sentences = excerpt_text | split: ". " %}
+                <p><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a> <small>{{ post.date | date: "%-d %b %Y" }}</small></p>
+                <p> {% if sentences.size > 2 %}{{ sentences | slice: 0, 2 | join: ". " }}...{% else %}{{ excerpt_text }}{% endif %} </p>
           {% endfor %}
         </article>
 	     </div>
