@@ -13,11 +13,18 @@ I'm currently a Knight-Hennessy fellow at Stanford University. I am part of the 
 - [Blog](/blog_index)
 
 # News
-- **August 2026**: I graduated from Stanford University with a PhD in Physics! My thesis, "Microwave probes of quantum matter: probing quantum spin liquids and van der Waals heterostructures using superconducting circuits," is available via the [Stanford Digital Repository](https://purl.stanford.edu/yq629bd4681) or as a [PDF](/assets/Kalantre_thesis_microwave_probes_final.pdf).
+
+**August 2026**
+
+I graduated from Stanford University with a PhD in Physics! My thesis, "Microwave probes of quantum matter: probing quantum spin liquids and van der Waals heterostructures using superconducting circuits," is available via the [Stanford Digital Repository](https://purl.stanford.edu/yq629bd4681) or as a [PDF](/assets/Kalantre_thesis_microwave_probes_final.pdf).
 
 I had a wonderful time laying the groundwork for adapting microwave techniques from superconducting quantum science to probe condensed matter systems. The goal was to "shed new light" on these systems using tools that hadn't previously been applied to them. My work specifically focused on spin resonance in frustrated magnets and on hybrid devices built from van der Waals heterostructures.
 
-- **March 2026**: I'll be at the APS March Meeting in Denver, CO.
+---
+
+**March 2026**
+
+I'll be at the APS March Meeting in Denver, CO.
 
 **Hybrid superconducting circuit architecture to probe van der Waal heterostructures : part 1**
 
@@ -27,11 +34,18 @@ Sandesh Kalantre (presenter), Chaitrali Duse, Ke Huang, Kenji Watanabe, Takashi 
 
 ![apspic](/assets/images/aps2026.png)
 
+---
 
-- **April 2025**: I attended the Capri Spring School in Italy which covered Novel Aspects of Superconducting Devices. I learned a lot about superconducting circuits from many discussions with the participants. I met a few personal "heroes" whose papers have helped me understand superconductivity in depth. 
+**April 2025**
+
+I attended the Capri Spring School in Italy which covered Novel Aspects of Superconducting Devices. I learned a lot about superconducting circuits from many discussions with the participants. I met a few personal "heroes" whose papers have helped me understand superconductivity in depth. 
 Lectures notes are available [here.](https://capri-school.eu/Capri2025/lectures-material/)
 
 ![grouppic](/assets/images/capri_2025.jpg)
 
-- **May 2024**: I travelled to Corsica, France to attend a Workshop on Physics of Complex Oxides. I gave a talk on Microwave spin resonance in spin liquid candidate TbInO3. Using superconducting microwave resonators, we probed spin excitations in a quantum spin liquid candidate and I talked about how such measurement techniques can be applied to other magnetic systems and thin film superconductors.
+---
+
+**May 2024**
+
+I travelled to Corsica, France to attend a Workshop on Physics of Complex Oxides. I gave a talk on Microwave spin resonance in spin liquid candidate TbInO3. Using superconducting microwave resonators, we probed spin excitations in a quantum spin liquid candidate and I talked about how such measurement techniques can be applied to other magnetic systems and thin film superconductors.
 ![grouppic](/assets/images/oxide_2024.jpg)
