@@ -13,6 +13,10 @@ I'm currently a Knight-Hennessy fellow at Stanford University. I am part of the 
 - [Blog](/blog_index)
 
 # News
+- **August 2026**: I graduated from Stanford University with a PhD in Physics! My thesis, "Microwave probes of quantum matter: probing quantum spin liquids and van der Waals heterostructures using superconducting circuits," is available via the [Stanford Digital Repository](https://purl.stanford.edu/yq629bd4681) or as a [PDF](/assets/Kalantre_thesis_microwave_probes_final.pdf).
+
+I had a wonderful time laying the groundwork for adapting microwave techniques from superconducting quantum science to probe condensed matter systems. The goal was to "shed new light" on these systems using tools that hadn't previously been applied to them. My work specifically focused on spin resonance in frustrated magnets and on hybrid devices built from van der Waals heterostructures.
+
 - **March 2026**: I'll be at the APS March Meeting in Denver, CO.
 
 **Hybrid superconducting circuit architecture to probe van der Waal heterostructures : part 1**
