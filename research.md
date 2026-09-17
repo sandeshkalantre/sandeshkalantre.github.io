@@ -13,7 +13,7 @@ When magnetic moments sit on a geometrically frustrated lattice, the competition
 
 [S.S. Kalantre, J. Nordlander, M.A. Anderson, J.A. Mundy, and D. Goldhaber-Gordon, Microwave spin resonance in epitaxial thin films of spin liquid candidate TbInO<sub>3</sub>, arXiv:2603.14545 (2026)](https://arxiv.org/abs/2603.14545)
 
-# Microwave Probes of Correlated Electronic Systemss
+# Microwave Probes of Correlated Electronic Systems
 
 ![Resonator Probes](/assets/images/res-probes.png)
 

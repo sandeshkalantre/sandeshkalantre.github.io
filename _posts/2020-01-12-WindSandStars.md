@@ -4,12 +4,12 @@ title:  "Wind, Sand and Stars"
 date:   2020-01-12
 categories: Excerpts
 ---
-This post is a collection of my favorite passages form the book *Wind,Sand and Starsl* by *Antoine De Saint-Exupery*.
+This post is a collection of my favorite passages from the book *Wind, Sand and Stars* by *Antoine De Saint-Exupery*.
 
 ## The Craft
-> The old omnibus had vanished, but its austerity, its discomfort, still live in my memory. It was a peroper symbol of the apprenticeship we had to serve before we might posses the stern joys of our craft.
+> The old omnibus had vanished, but its austerity, its discomfort, still live in my memory. It was a proper symbol of the apprenticeship we had to serve before we might possess the stern joys of our craft.
 
-> Old bureaucrat, my comrade, it is not you who are to blame. No one ever helped you escape. You, like a termite, built your peace by blocking up with cement every chink and cranny through which the light might pierce. You rolled yourself up into a ball in your genteel security, in routine, in the stifling conventions of provincial life, raising a modest rampart against the winds and the tides and the stars. You have chosen not e perturbed by great problems, having trouble enough to forget your own fate as man. You are not the dweller upon an errant planet and do not ask yourself questions to which there are no answers. You are a pretty bourgeois of Toulouse. Nobody grasped you by the shoulder while there was still time. Now the clay of which you were shaped has dried and hardened, and naught in you will ever awaken the sleeping musician, the poet, the astronomer that inhabited you in the beginning.
+> Old bureaucrat, my comrade, it is not you who are to blame. No one ever helped you escape. You, like a termite, built your peace by blocking up with cement every chink and cranny through which the light might pierce. You rolled yourself up into a ball in your genteel security, in routine, in the stifling conventions of provincial life, raising a modest rampart against the winds and the tides and the stars. You have chosen not be perturbed by great problems, having trouble enough to forget your own fate as man. You are not the dweller upon an errant planet and do not ask yourself questions to which there are no answers. You are a pretty bourgeois of Toulouse. Nobody grasped you by the shoulder while there was still time. Now the clay of which you were shaped has dried and hardened, and naught in you will ever awaken the sleeping musician, the poet, the astronomer that inhabited you in the beginning.
 
 ## The Men
 
@@ -17,7 +17,7 @@ This post is a collection of my favorite passages form the book *Wind,Sand and S
 
 ## The Tool
 
-> Perfection is finally attained not when is no longer anything to add, but when there is no anything to take away, when a body has been stripped down to its nakedness.
+> Perfection is finally attained not when there is no longer anything to add, but when there is nothing to take away, when a body has been stripped down to its nakedness.
 
 ## The Elements
 
@@ -33,6 +33,6 @@ This post is a collection of my favorite passages form the book *Wind,Sand and S
 
 ## Barcelona and Madrid
 
-> No man can draw a free breath who does share with other men a common and disinterested ideal. Life has taught us that love does not consist in gazing each other but in looking outwared together in the same direction. There is no comradeship except through union in the same high effort. Even in our age of material well-being this must be so, else how should we explain the happiness we feel in sharing our last crust with others in a desert?
+> No man can draw a free breath who does share with other men a common and disinterested ideal. Life has taught us that love does not consist in gazing at each other but in looking outward together in the same direction. There is no comradeship except through union in the same high effort. Even in our age of material well-being this must be so, else how should we explain the happiness we feel in sharing our last crust with others in a desert?
 
 > Truth is the language that expresses universality. Newton did not "discover" a law that lay hidden from man like the answer to a rebus. He accomplished a creative operation. He founded human speech which could express at one and the same time the fall of an apple and the rising of the sun. Truth is not that which is demonstrable but that which is ineluctable.
